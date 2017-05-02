@@ -1,0 +1,17 @@
+[Expression]
+2
+3
+7
+*
+"x"
++
++
+[Action]
+print
+simplify
+eval
+
+print
+[Evaluation]
+"x" 2
+"y" -7
